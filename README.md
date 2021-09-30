@@ -7,7 +7,7 @@ This is my responisve version.
 
 
 # LIVE SITE 
-- LIVE SITE URL: [https://app.netlify.com/sites/nuemorphic-profle/overview](https://app.netlify.com/sites/nuemorphic-profle/overview)
+- LIVE SITE URL: [https://nuemorphic-profle.netlify.app/](https://nuemorphic-profle.netlify.app/)
 
 MOCKUP images
 For Desktop 1440px:
